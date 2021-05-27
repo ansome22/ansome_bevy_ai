@@ -1,0 +1,17 @@
+[package]
+name = "bevy_ai"
+version = "0.4.0"
+edition = "2018"
+authors = [
+    "Bevy Contributors <bevyengine@gmail.com>",
+    "Alex Thomas <ansome22@gmail.com>",
+]
+description = "Provides core App functionality for Bevy Engine"
+homepage = "https://bevyengine.org"
+repository = "https://github.com/bevyengine/bevy"
+license = "MIT"
+keywords = ["bevy"]
+
+[dependencies]
+bevy = "0.5"
+Ansome-AI-Collection = "1.0"
